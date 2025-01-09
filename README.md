@@ -9,7 +9,7 @@ I am a software engineer with three years of experience in MEARN stack technolog
 
 * 🌍  I'm based in South Africa
 * ✉️  You can contact me at [thatobusm@gmail.com](mailto:thatobusm@gmail.com)
-* 🧠  I'm learning Three.js, Angular,
+* 🧠  I'm learning Angular,
 * 🤝  I'm open to collaborating on I'm open to collaborate with other frontend engineers.
 
 ### Skills
